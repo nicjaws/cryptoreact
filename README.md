@@ -1,4 +1,4 @@
-Simple cryptocurrency value, using the API coinmarketcap with axios.
+Simple search cryptocurrency value, using the API coinmarketcap with axios.
 
 to run:
 
